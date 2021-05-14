@@ -1,0 +1,19 @@
+{
+  "name": "numbers-to-word-azerbaijan",
+  "version": "1.0.0",
+  "description": "This app created for Azerbaijan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeacademyprogramming/13-05-2021-isko88.git"
+  },
+  "author": "Isko 88",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeacademyprogramming/13-05-2021-isko88/issues"
+  },
+  "homepage": "https://github.com/codeacademyprogramming/13-05-2021-isko88#readme"
+}
